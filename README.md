@@ -2,7 +2,7 @@ Hey, I'm Sebastian.
 
 This Github page is where I will post repositories 
 of mine both public and private, primarily for 
-portfolio and storage purposes of my projects.
+portfolio and archival purposes of my projects.
 
 Even if I find some of my past projects inefficient
 or poorly written, it is important that I keep them
