@@ -11,7 +11,7 @@ to where I am today, rather than what it is at
 face value.
 
 If you need to contact me for any purpose, reach
-me at scapellan55@gmail.com 
+me at **scapellan55 at gmail dot com**
 
 I hope you enjoyed reading, and have a good day!
 
